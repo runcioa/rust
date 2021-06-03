@@ -8,7 +8,7 @@
 `rustc --version`
 `cargo --version`
 
-rustc hello.rs 
+`rustc hello.rs` 
 
 Compila il file in exe
 
@@ -77,6 +77,5 @@ println!("Number: {}",1);
 //Basic math
   println!("10 + 10 = {}", 10+10);
   
-  19:18
 ```
 
